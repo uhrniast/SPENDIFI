@@ -1,0 +1,36 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "SPENDIFI",
+  "orientation": "landscape",
+  "scope": "https://uhrniast.github.io/SPENDIFI/",
+  "short_name": "SPENDIFI",
+  "start_url": "https://uhrniast.github.io/SPENDIFI/",
+  "theme_color": "#ffffff",
+  "lang": "en",
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay",
+    "minimal-ui"
+  ],
+  "id": "SPENDIFI TRCKER",
+  "description": "Spendifi – Smart Expense Tracker\n\nSpendifi is a simple and powerful expense tracker designed to help you manage your money with clarity. Track your daily income and expenses, monitor balances across multiple accounts, and get a complete overview of your financial life in one place. With a clean interface, smart summaries, and visual charts, Spendifi makes budgeting effortless and helps you stay in control of your spending.\n\nAdd transactions in seconds, categorize expenses, and view detailed insights with daily and monthly reports. Spendifi also supports account management, balance tracking, and quick search so you can find any transaction instantly. Whether you're managing personal finances, shop expenses, or monthly budgets, Spendifi keeps everything organized and easy to understand.",
+  "iarc_rating_id": "SPENDIFI",
+  "prefer_related_applications": true,
+  "categories": [
+    "finance",
+    "lifestyle",
+    "politics",
+    "utilities"
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "https://uhrniast.github.io/SPENDIFI/",
+    "params": {
+      "title": "SPENDIFI",
+      "text": "SPENDIFI",
+      "url": "https://uhrniast.github.io/SPENDIFI/"
+    }
+  }
+}
